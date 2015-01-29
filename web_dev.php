@@ -21,7 +21,6 @@
   	<nav class="navbar navbar-default navbar-fixed-top">
     	<div class="container">
           <a href="index.php" class="pull-left"><img src="img/logo.png" class="img-responsive"></a>
-
         	<div class="navbar-header">
             	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
                 	<span class="sr-only">Toggle Navigation</span>
