@@ -143,18 +143,23 @@ border-bottom:#666666;}
 	}	
 
 /*----------Page Heading---------*/
-.company_head{}
+.company_head{
+	background:url(../img/com_heading.png);
+	}
 .robotics_head{
 	background:url(../img/robo_heading.png);
 	}
 .mobility_head{
 	background:url(../img/mob_heading.png);
 	}
-.sw_head{}
+.sw_head{
+	background:url(../img/sw_heading.png);
+	}
 .web_head{
 	background:url(../img/web_heading.png);
 	}
 .career_head{
+	background:url(../img/car_heading.png);
 }
 .contact_head{}
 
@@ -194,7 +199,7 @@ border-bottom:#666666;}
 	}
 /*-----------Company------------*/
 .section_heading{
-	padding:15px 0px;
+	padding:25px 0px 17px 0px;
 	}
 .section_heading h2{
 	text-transform:uppercase;

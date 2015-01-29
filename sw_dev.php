@@ -74,8 +74,9 @@
   </header> 
   
 
-  <div class="section_heading">
+  <div class="section_heading sw_head">
 	<div class="container">
+      <div class="row">
     	<div class="col-md-5 pull-left">
 	    	<h2>S/W Development</h2>
         </div><!--col-md-6-->
@@ -86,6 +87,7 @@
                 <li class="active"><a href="#">S/W Development</a></li>           
             </ol>
         </div><!--col-md-4-->
+      </div><!--row-->
     </div><!--.contianer-->  
   </div><!--compnay_heading-->
   

@@ -73,8 +73,9 @@
     </nav>
   </header>
   
-  <div class="section_heading">
+  <div class="section_heading company_head">
 	<div class="container">
+      <div class="row">
     	<div class="col-md-5 pull-left">
 	    	<h2>Company</h2>
         </div><!--col-md-6-->
@@ -84,6 +85,7 @@
                 <li class="active"><a href="#">Company</a></li>            
             </ol>
         </div><!--col-md-3-->
+      </div><!--row-->
     </div><!--.contianer-->  
   </div><!--section_heading-->
   

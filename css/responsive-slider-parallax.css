@@ -51,7 +51,7 @@
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.header h2 {
   font-size: 40px;
-  background: #FF6600;
+  background: #017BC4;
   padding: 0 3px 0 3px;
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.header h2 i {
@@ -79,11 +79,10 @@
   bottom: -8px;
   right: -20px;
   font-weight: bold;
-  font-family: 'Cuprum', sans-serif;
   color: #000000;
   text-shadow: 0px 1px 0px #ffffff;
   padding: 0 3px 0 3px;
-  background: #ffffff;
+  background: #fedb01;
 }
 @media (min-width: 481px) and (max-width: 767px) {
   .responsive-slider-parallax .slides-container ul li .slide-body .caption.sub {
@@ -101,46 +100,81 @@
     right: 0;
   }
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-html5 {
+/*-------------------------Position & size of images--------------------------------*/
+
+/*----- style for mobility slider-------*/
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-mob1 {
   top: 12%;
-  right: 8%;
+  right: 10%;
   width: 30%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-html5 img {
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-mob1 img {
   max-width: 100%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-css3 {
-  top: 58%;
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-mob2 {
+  top: 50%;
   right: 12%;
   width: 10%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-css3 img {
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-mob2 img {
   max-width: 140%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-bootstrap {
+
+/*----- style for web slider-------*/
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-web1 {
   top: 56%;
   right: 12%;
   width: 11%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-bootstrap img {
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-web1 img {
   max-width: 150%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-twitter {
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-web2 {
   top: 20%;
   right: 12%;
   width: 11%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-twitter img {
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-web2 img {
   max-width: 170%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-jquery {
+
+/*------ style for sw slider-------*/
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-sw1 {
+  top: 50%;
+  right: 12%;
+  width: 11%;
+}
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-sw1 img {
+  max-width: 180%;
+}
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-sw2 {
+  top: 10%;
+  right: 40%;
+  width: 11%;
+}
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-sw2 img {
+  max-width: 200%;
+}
+
+/*------- style for robotics slider------------*/
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-robo1 {
   top: 55%;
   right: 12%;
   width: 33%;
 }
-.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-jquery img {
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-robo1 img {
   max-width: 100%;
 }
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-robo2 {
+  top: 10%;
+  right: 5%;
+  width: 33%;
+}
+.responsive-slider-parallax .slides-container ul li .slide-body .caption.img-robo2 img {
+  max-width: 60%;
+}
+
+
 @media (min-width: 1200px) {
   .responsive-slider-parallax .slides-container ul li .slide-body {
     height: 400px;
