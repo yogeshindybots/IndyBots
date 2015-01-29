@@ -79,7 +79,7 @@
     </nav>
   </header> 
 
-  <div class="section_heading">
+  <div class="section_heading contact_head">
 	<div class="container">
     	<div class="col-md-5 pull-left">
 	    	<h2>Contact Us</h2>
