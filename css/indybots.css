@@ -27,12 +27,15 @@ body{
 	font-family: Ubuntu, sans-serif; 
 	}
 
-header{margin-bottom:75px;
-border-bottom:#666666;}
+header{
+	margin-bottom:75px;
+	border-bottom:#666666;
+}
 /*------------Navigation--------------*/
 
 .navbar{
 	background:#fff;
+	height:75px;
 	}
 .navbar-default{
 	border:none;
@@ -51,7 +54,7 @@ border-bottom:#666666;}
 	border-color:#febd01;
 	}
 .navbar-nav{
-	margin-top:20px;
+	margin-top:15px;
 	}
 .navbar-default .navbar-nav .active a{
 	color:#017BC4;

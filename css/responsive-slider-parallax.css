@@ -104,20 +104,20 @@
 
 /*----- style for mobility slider-------*/
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-mob1 {
-  top: 12%;
-  right: 10%;
+  top: 5%;
+  right: 25%;
   width: 30%;
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-mob1 img {
   max-width: 100%;
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-mob2 {
-  top: 50%;
-  right: 12%;
+  top: 25%;
+  right: 8%;
   width: 10%;
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-mob2 img {
-  max-width: 140%;
+  max-width: 190%;
 }
 
 /*----- style for web slider-------*/
@@ -158,20 +158,21 @@
 
 /*------- style for robotics slider------------*/
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-robo1 {
-  top: 55%;
-  right: 12%;
-  width: 33%;
+  top: 25%;
+  left: 30%;
+  width: 20%;
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-robo1 img {
   max-width: 100%;
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-robo2 {
-  top: 10%;
-  right: 5%;
-  width: 33%;
+  bottom: 0%;
+  right:-15%;
+  /*right: 5%;
+  width: 33%;*/
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-robo2 img {
-  max-width: 60%;
+  max-width:90%;
 }
 
 

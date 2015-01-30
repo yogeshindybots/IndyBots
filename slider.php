@@ -21,10 +21,10 @@
                 <div class="caption sub" data-animate="slideAppearLeftToRight" data-delay="800" data-length="300">With one to one swipe movement!</div>
               </div>
               <div class="caption img-mob1" data-animate="slideAppearLeftToRight" data-delay="200">
-                <img src="img/slider/android1.png">
+                <img src="img/slider/mob1.png">
               </div>
               <div class="caption img-mob2" data-animate="slideAppearLeftToRight">
-                <img src="img/slider/ios.png">
+                <img src="img/slider/mob2.png">
               </div>
             </div>
           </div>
