@@ -43,7 +43,7 @@
                     <li>
                     	<a href="company.php">Company</a>
                     </li>
-                    <li class="dropdown active">
+                    <li class="dropdown">
                     	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services &nbsp;<b class="fa fa-chevron-down"> </b></a>
                         
                         <ul class="dropdown-menu">
@@ -61,7 +61,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li>
+                    <li class="active">
                     	<a href="career.php">Career</a>
                     </li>
                     <li>
@@ -118,13 +118,35 @@
         <div class="row">
           <div class="col-md-8">
         	<div class="panel-group" id="panel_career" role="tablist" aria-multiselectable="true">
-            	<div class="panel panel-default">
-                	<div class="panel-heading" role="tab" id="head_career_sw">
+                <div class="panel panel-default  animated wow fadeInLeft">
+                	<div class="panel-heading" role="tab" id="head_career_robo">
                     	<h4 class="panel-title">
-                        	<a data-toggle="collapse" data-parent="#panel_career" href="#career_sw" aria-expanded="true" aria-controls="career_sw">.Net Developer</a>
+                        	<a data-toggle="collapse" data-parent="#panel_career" href="#career_robo" aria-expanded="true" aria-controls="career_robo">Robotics</a>
                         </h4>
                     </div><!--panel-heading-->
-                    <div id="career_sw" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="head_career_sw">
+                    <div id="career_robo" class="panel-collapse in" role="tabpanel" aria-labelledby="head_career_robo">
+                        <div class="panel-body">
+                        <p>We are looking for someone skilled who can design hardware & programming for robotics machines. 
+                                <h4>Skills & Responsibilities : </h4>
+                                <ul class="list-unstyled">
+                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;Must have BE / BTech (Electrical, Electronics, E & TC, Instrumentation, Mechanical) degree from reputed university, institution.</p></li>
+                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;0-1 years of experience in related areas.</p></li>
+                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;Should have good knowledge of PCB Design, Microcontroller, Microprocessor, Automation.</p></li>
+                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;Should have good English communication skills to understand client needs.</p></li>
+                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;We expect eagerness to explore experiment and learn.</p></li>
+                                <p>Rush your resume at <a href="mailto:career@indybots.in">career@indybots.in</a></p>
+                        </div><!--panel-body-->	
+                    </div><!--career_tree-->
+                </div><!--panel-default-->
+
+
+            	<div class="panel panel-default  animated wow fadeInLeft">
+                	<div class="panel-heading" role="tab" id="head_career_sw">
+                    	<h4 class="panel-title">
+                        	<a data-toggle="collapse" data-parent="#panel_career" href="#career_sw" aria-expanded="false" aria-controls="career_sw">.Net Developer</a>
+                        </h4>
+                    </div><!--panel-heading-->
+                    <div id="career_sw" class="panel-collapse collapse" role="tabpanel" aria-labelledby="head_career_sw">
                     	<div class="panel-body">
                                 <p>We are looking for developer who lead the design, development and maintenance of desktop application.</p>
                                 <h4>Skills & Responsibilities : </h4>
@@ -139,7 +161,7 @@
                     </div><!--career_one-->
                 </div><!--panel-default-->
             
-            	<div class="panel panel-default">
+            	<div class="panel panel-default  animated wow fadeInLeft">
                 	<div class="panel-heading" role="tab" id="head_career_mob">
                     	<h4 class="panel-title">
                         	<a data-toggle="collapse" data-parent="#panel_career" href="#career_mob" aria-expanded="false" aria-controls="career_mob">Android Developer</a>
@@ -160,7 +182,7 @@
                     </div><!--career_two-->
                 </div><!--panel-default-->
             
-            	<div class="panel panel-default">
+            	<div class="panel panel-default  animated wow fadeInLeft">
                 	<div class="panel-heading" role="tab" id="head_career_php">
                     	<h4 class="panel-title">
                         	<a data-toggle="collapse" data-parent="#panel_career" href="#career_php" aria-expanded="false" aria-controls="career_php">PHP Developer</a>
@@ -181,7 +203,7 @@
                     </div><!--career_tree-->
                 </div><!--panel-default-->
                 
-                <div class="panel panel-default">
+                <div class="panel panel-default  animated wow fadeInLeft">
                 	<div class="panel-heading" role="tab" id="head_career_web">
                     	<h4 class="panel-title">
                         	<a data-toggle="collapse" data-parent="#panel_career" href="#career_web" aria-expanded="false" aria-controls="career_web">Web Designer</a>
@@ -202,7 +224,7 @@
                     </div><!--career_tree-->
                 </div><!--panel-default-->
                 
-                <div class="panel panel-default">
+                <div class="panel panel-default  animated wow fadeInLeft">
                 	<div class="panel-heading" role="tab" id="head_career_graphic">
                     	<h4 class="panel-title">
                         	<a data-toggle="collapse" data-parent="#panel_career" href="#career_graphic" aria-expanded="false" aria-controls="career_graphic">Graphic Designer</a>
@@ -223,26 +245,6 @@
                     </div><!--career_tree-->
                 </div><!--panel-default-->
                 
-                <div class="panel panel-default">
-                	<div class="panel-heading" role="tab" id="head_career_robo">
-                    	<h4 class="panel-title">
-                        	<a data-toggle="collapse" data-parent="#panel_career" href="#career_robo" aria-expanded="false" aria-controls="career_robo">Robotics</a>
-                        </h4>
-                    </div><!--panel-heading-->
-                    <div id="career_robo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="head_career_robo">
-                        <div class="panel-body">
-                        <p>We are looking for someone skilled who can design hardware & programming for robotics machines. 
-                                <h4>Skills & Responsibilities : </h4>
-                                <ul class="list-unstyled">
-                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;Must have BE / BTech (Electrical, Electronics, E & TC, Instrumentation, Mechanical) degree from reputed university, institution.</p></li>
-                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;0-1 years of experience in related areas.</p></li>
-                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;Should have good knowledge of PCB Design, Microcontroller, Microprocessor, Automation.</p></li>
-                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;Should have good English communication skills to understand client needs.</p></li>
-                	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;We expect eagerness to explore experiment and learn.</p></li>
-                                <p>Rush your resume at <a href="mailto:career@indybots.in">career@indybots.in</a></p>
-                        </div><!--panel-body-->	
-                    </div><!--career_tree-->
-                </div><!--panel-default-->
                 
             </div><!--panel-group-->
           </div><!--col-md-7-->  

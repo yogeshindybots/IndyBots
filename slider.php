@@ -79,11 +79,11 @@
                 <h2>Robotics</h2>
                 <div class="caption sub" data-animate="slideAppearLeftToRight" data-delay="800" data-length="300">Modern! Effective! Engineer!</div>
               </div>
-              <div class="caption img-robo1" data-animate="slideAppearLeftToRight">
-                <img src="img/slider/mobile.png">
+              <div class="caption img-robo1" data-animate="slideAppearDownToUp" data-delay="200">
+                <img src="img/slider/robo1.gif">
               </div>
-              <div class="caption img-robo2" data-animate="slideAppearDownToUp" data-delay="200">
-                <img src="img/slider/robotics.png">
+              <div class="caption img-robo2" data-animate="slideAppearLeftToRight">
+                <img src="img/slider/robo2.gif">
               </div>
             </div>
           </div>

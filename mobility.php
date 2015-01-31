@@ -112,8 +112,8 @@ Android provides access to a wide range of useful libraries and tools that can b
 In addition, Android includes a full set of tools that have been built from the ground up alongside the platform providing developers with high productivity and deep insight into their applications.</p>
     		</div><!--col-md-7-->
             
-            <div class="col-md-5">
-            	<img src="img/sevices_android.png" class="img-responsive  animated wow fadeInRight">
+            <div class="col-md-5 text-center">
+            	<img src="img/mobility.png" class="img-responsive  animated wow fadeInRight">
             </div>
         </div><!--row-->
         
@@ -130,7 +130,7 @@ In addition, Android includes a full set of tools that have been built from the 
         </div><!--row-->
         
         <div class="row">
-  			<div class="col-md-7 animated wow fadeInLeft">
+  			<div class="col-md-7 animated wow fadeInLeft pull-right">
     			<p class="text-justify">This famous mobile operating software has charm the life of many businessmen and we are here to help you with the same by developing and delivering ground-breaking Apple iOS applications that runs for both iPhone as well as iPad.
 
 The success of iPhone has lead success to many mobile application development companies and hence, it is one of the most demanding application development services across the globe. Either you are looking for iOS application development or iOS application testing; we can help you with both at unbelievable rates!
@@ -142,8 +142,8 @@ Apps need to work with the iOS to ensure that they deliver a great user experien
 Apps need to support all of the latest iOS devices while still appearing as if the app was tailored for the current device.Implementing all of these behaviors can seem daunting at first but iOS provides the help you need to make it happen.</p>
     		</div><!--col-md-7-->
             
-            <div class="col-md-5">
-            	<img src="img/services_apple.png" class="img-responsive animated wow fadeInRight">
+            <div class="col-md-5 text-center">
+            	<img src="img/mobility2.png" class="img-responsive animated wow fadeInRight">
             </div>
         </div><!--row-->
         

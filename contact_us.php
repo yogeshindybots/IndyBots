@@ -127,7 +127,7 @@
 <input type="text" class="form-control" name="captcha" id="captcha-form" required autocomplete="off" /><br/>
 
                             </div>
-                    <button name="submit" type="submit" class="btn button">Submit &nbsp;&nbsp;&nbsp;<i class="fa fa-arrow-circle-o-right"></i></button>
+                    <button name="submit" type="submit" class="btn button">Submit &nbsp;<i class="fa fa-arrow-circle-o-right"></i></button>
                 </form>
     	</div><!--col-md-8-->
         

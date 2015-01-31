@@ -11,7 +11,7 @@
     	<div class="row">
         	<div class="col-md-3 pull-left">
             	<h4 class="animated wow fadeInDown">Contact Details</h4>
-                <div class="pull-left animated wow fadeInLeft">
+                 <div class="pull-left animated wow fadeInLeft">
                 	<b class="fa fa-home pull-left"></b>
                 	<p class="pull-left text-justify"> &nbsp;IndyBots Technologies,<br />
 					&nbsp;Marigold Lane, Veerbhadra Nagar,<br />
@@ -31,7 +31,7 @@
                 <div class="pull-left animated fadeInLeft">
                 	<b class="fa fa-globe pull-left"></b>
                     <a class="pull-left" href="http://www.indybots.in" target="_blank">&nbsp;&nbsp;www.indybots.in</a>
-                </div><br />
+                </div>
                 
             </div><!--col-md-3-->
             
