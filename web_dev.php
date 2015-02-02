@@ -94,14 +94,40 @@
   	<div class="container">
     	<div class="row">
   			<div class="col-md-7 animated wow fadeInDown">
-    			<p class="text-justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p>
+    			<p class="text-justify">Our web design services can help rediscover your business’s image in the Internet marketplace. The blending of style and technology we offer, in conjunction with our expertise enables your business to succeed on the Web.</p>
+                <h3>E-commerce Websites</h3>
+                <ul>
+                	<li><p>We will help make your ecommerce website your most effective selling tool.</p></li>
+                    <li><p>Our ecommerce design process helps increase conversion rates.</p></li>
+                    <li><p>We integrate your website with social media to help users engage with you online.</p></li>
+                    <li><p>Our ecommerce content management system gives you full control.</p></li>
+                    <li><p>We have solutions to fit every budget.</p></li>
+                </ul>
+                <p>Our designs are focused on providing the user with clear messaging and strong calls-to-action to push them to take action. User interfaces are intuitively designed, pages load quickly, and checkout is a breeze.
+Sell your products online with ecommerce solutions that fit your needs. Add products, update pricing and manage your content easily and effectively. Our ecommerce solutions one of our payment processor partners to allow your company to easily take payments online. Contact us to find out more about our ecommerce solutions.
+</p>
+				
     		</div><!--col-md-7-->
             
             <div class="col-md-5">
-            	<img src="">
+            	<img src="img/web_dev.png" class="img-responsive">
             </div><!--col-md-5-->
+            </div><!--row-->
+            
+            <div class="row">
+            <div class="col-md-12">
+            <h3>Responsive Websites</h3>
+                <p>Responsive Design prepares websites for the future of modern website design by making them beautiful across multiple devices.</p>
+                
+                <ul>
+                	<li><p>Our team plans, designs, and develops stunning responsive websites that will increase conversion rates and overall traffic.</p></li>
+                    <li><p>We make sure that our responsive websites are beautiful across all devices</p></li>
+                    <li><p>Our responsive web design makes sure that your business is prepared for the future mobile web.</p></li>
+                </ul>
+                <p>A responsive website is a single website that adapts to the device of each unique visitor, whether desktop, Smartphone, or tablet. A responsive website dynamically re-sizes its content and imagery for a variety of different screen sizes in order to ensure the website is effective and easy to use on any device.
+We are best web development company because of all the things listed above, and because we love our work and produce a quality product in a timely and efficient manner. Contact us today to get expert service for your web project.
+</p>
+		</div><!--col-md-12-->
         </div><!--row-->
      </div><!--container-->
   </div><!--section_content-->

@@ -95,13 +95,19 @@
   	<div class="container">
     	<div class="row">
   			<div class="col-md-7 animated wow fadeInDown">
-    			<p class="text-justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p>
+    			<p class="text-justify">Through IndyBots application Software development services, we analyze, design, build, test and implement new functionalities and / or applications as a managed service for a specified period of time. Our practice includes Software development, maintenance and support following technologies like VB.Net, ASP.NET, Web Services, AJAX, Java, Java Script, PHP, CSS.<br />
+                Efficiencies created by new and mobile technologies can change organizational processes and solve problems in new ways. To leverage new technology opportunities, sometimes you need to go beyond commercialized solutions and develop, customize, or integrate technology to develop your own. IndyBots helps customers develop software and systems that manage every aspect of the enterprise, mission or campaign. </p>
+                <h4>We deliver services such as:</h4>
+
+				<ul>
+                	<li><p>Business life cycle and tactical systems software development </p></li>
+                    <li><p>Mobile application design, development, deployment and support</p></li>
+                    <li><p>Mobile application and device management systems</p></li>
+                </ul>
     		</div><!--col-md-7-->
             
             <div class="col-md-5">
-            	<img src="">
+            	<img src="img/sw_dev.png" class="img-responsive">
             </div><!--col-md-5-->
         </div><!--row-->
      </div><!--container-->
