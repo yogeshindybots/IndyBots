@@ -140,7 +140,7 @@
 
 /*------ style for sw slider-------*/
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-sw1 {
-  top: 50%;
+  top: 55%;
   right: 12%;
   width: 11%;
 }
@@ -148,12 +148,12 @@
   max-width: 180%;
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-sw2 {
-  top: 10%;
-  right: 40%;
+  top: 5%;
+  right: 10%;
   width: 11%;
 }
 .responsive-slider-parallax .slides-container ul li .slide-body .caption.img-sw2 img {
-  max-width: 200%;
+  max-width: 140%;
 }
 
 /*------- style for robotics slider------------*/

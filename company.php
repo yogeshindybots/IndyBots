@@ -92,21 +92,22 @@
   <div class="section_content">
   	<div class="container">
     	<div class="row">
-  			<div class="col-md-7 animated wow fadeInDown">
+  			<div class="col-md-7 animated wow fadeInLeft">
     			<p class="text-justify">INDYBOTS engages in the design, development, manufacture, sale, and support of robots for home appliances, pharmaceuticals, food processing and Connected Applications consulting and development firm, Our professional team of programmers, project managers, and technology consultants provide Advanced Mobile Application and Web Development Services and Mobility consultancy
 The INDYBOTS vision results from the belief that in the world of competitive, Robotics can and should do more. The fervent desire to stimulate young minds and bring that excitement beyond the classroom. INDYBOTS is attempting something new with an impressive end goal—“to rock the robotics world”-by spearheading a technology platform that is not only extraordinarily durable but also infinitely modifiable and relevant for this century, breathing new energy and enthusiasm into Science, Technology, Engineering and Math Education.</p>
+				<p class="text-justify">“We’ve always had a passion for tinkering, inventing. So we invented an entirely new system of robot kits to build that are tough enough to give anyone the freedom to build anything and do anything they desire in any setting. And we designed the system to be the toughest out there to make current robotics limitations a thing of the past.”
+In the other hand, with the constant expansion of mobility arena across, we help you reach your customers faster, safer and better! If you have a mobile based idea that you want to convert into a stunning mobile application, we are here to help you. Every mobile device whether it is an iPhone or Android, has its own set of features that requires technical finesse to meet both individual and business needs. Our team loves these challenges.</p>
     		</div><!--col-md-7-->
             
             <div class="col-md-5">
-            	<img src="">
+            	<img src="img/company.png" class="img-responsive animated wow fadeInRight">
             </div>
         </div><!--row-->
         
         
         <div class="row">
-        <div class="col-md-12 animated wow fadeInDown">
-        	<p class="text-justify">“We’ve always had a passion for tinkering, inventing. So we invented an entirely new system of robot kits to build that are tough enough to give anyone the freedom to build anything and do anything they desire in any setting. And we designed the system to be the toughest out there to make current robotics limitations a thing of the past.”
-In the other hand, with the constant expansion of mobility arena across, we help you reach your customers faster, safer and better! If you have a mobile based idea that you want to convert into a stunning mobile application, we are here to help you. Every mobile device whether it is an iPhone or Android, has its own set of features that requires technical finesse to meet both individual and business needs. Our team loves these challenges.
+        <div class="col-md-12 animated wow fadeInLeft">
+        	<p class="text-justify">
 We strategies, we design, we develop and we maintain. We work with a variety of technology and custom craft a web solution per your specific business needs. The web is a part of your business strategy, your brand identification, and your stakeholders and in many cases, it is the business itself. It is important that you get it right the first time and partner with a firm that can deliver!
 Together, we invite you to dive-in and get your hands dirty; because that’s what INDYBOTS products are created for. In the spirit of true learning, we’ve developed products that are sophisticated enough to challenge engineers of all skill levels, and built tough enough to be road tested in the real world.</p></div>
         </div><!--row-->

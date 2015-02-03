@@ -9,7 +9,7 @@
 <div class="contact_footer">
 	<div class="container">
     	<div class="row">
-        	<div class="col-md-3 pull-left">
+        	<div class="col-md-3 col-xs-6 pull-left">
             	<h4 class="animated wow fadeInDown">Contact Details</h4>
                  <div class="pull-left animated wow fadeInLeft">
                 	<b class="fa fa-home pull-left"></b>
@@ -28,14 +28,14 @@
                     <p class="pull-left"> &nbsp;&nbsp;think@indybots.in &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                 </div><br />
 
-                <div class="pull-left animated fadeInLeft">
+                <div class="pull-left animated wow fadeInLeft">
                 	<b class="fa fa-globe pull-left"></b>
                     <a class="pull-left" href="http://www.indybots.in" target="_blank">&nbsp;&nbsp;www.indybots.in</a>
                 </div>
                 
             </div><!--col-md-3-->
             
-            <div class="col-md-5 social">
+            <div class="col-md-3 col-sx-6 social">
             	<h4 class="animated wow fadeInDown">Connect with us</h4>
                 <ul class=" list-inline list-unstyled  animated wow fadeInUp">
                 <li><a href="https://www.facebook.com/indybotstech" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li>             
@@ -43,7 +43,11 @@
         	<li><a href="#" target="_blank" class="twitter_icon"><i class="fa fa-twitter"></i></a></li> 
             <li><a href="#" target="_blank" class="you_tube"><i class="fa fa-youtube"></i></a></li>
           </ul>
-            </div><!--col-md-5-->
+            </div><!--col-md-3-->
+            
+            <div class="col-md-6 pull-right">
+            	<img src="img/footer_img.png" class="img-responsive animated wow fadeInRight" />
+            </div><!--col-md-6-->
         </div><!--row-->
     </div><!--.container-->   		
   </div><!--contact_footer-->
@@ -52,7 +56,7 @@
    <footer class="text-center">
 		<div class="container">
         	<div class="row">
-		    	<p>Copyright &copy; 2014 IndyBots Technologies</p>
+		    	<p>Copyright &copy; 2015 IndyBots Technologies</p>
             </div>
         </div>
    </footer>

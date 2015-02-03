@@ -99,7 +99,7 @@
             </div><!--col-md-12-->
         </div><!--row-->
     	<div class="row">
-  			<div class="col-md-8 animated wow fadeInLeft">
+  			<div class="col-md-7 animated wow fadeInLeft">
             	<ul class="list-unstyled">
                 	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;A team of colleagues fueled by collaboration.</p></li>
                 	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;All this, and a company deeply committed to integrity and responsibility.</p></li>
@@ -107,17 +107,8 @@
                 	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;There is no limit to the ways in which you can inject some fun into the workplace.</p></li>
                 	<li> <p><i class="fa fa-chevron-right"> </i> &nbsp; &nbsp;We expect eagerness to explore experiment and learn.</p></li>
                 </ul>
-    		</div><!--col-md-8-->
-            
-            <div class="col-md-4">
-            	<img src="img/sevices_android.png" class="img-responsive  animated wow fadeInRight">
-            </div>
-        </div><!--row-->
-        
-        
-        <div class="row">
-          <div class="col-md-8">
-        	<div class="panel-group" id="panel_career" role="tablist" aria-multiselectable="true">
+                
+                <div class="panel-group" id="panel_career" role="tablist" aria-multiselectable="true">
                 <div class="panel panel-default  animated wow fadeInLeft">
                 	<div class="panel-heading" role="tab" id="head_career_robo">
                     	<h4 class="panel-title">
@@ -247,8 +238,15 @@
                 
                 
             </div><!--panel-group-->
-          </div><!--col-md-7-->  
+    		</div><!--col-md-8-->
+            
+            <div class="col-md-5">
+            	<img src="img/career.png" class="img-responsive  animated wow fadeInRight">
+            </div>
         </div><!--row-->
+        
+        
+        
         
      </div><!--container-->
   </div><!--section_content-->

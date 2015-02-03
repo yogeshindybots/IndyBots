@@ -130,7 +130,7 @@ In addition, Android includes a full set of tools that have been built from the 
         </div><!--row-->
         
         <div class="row">
-  			<div class="col-md-7 animated wow fadeInLeft pull-right">
+  			<div class="col-md-7 animated wow fadeInRight pull-right">
     			<p class="text-justify">This famous mobile operating software has charm the life of many businessmen and we are here to help you with the same by developing and delivering ground-breaking Apple iOS applications that runs for both iPhone as well as iPad.
 
 The success of iPhone has lead success to many mobile application development companies and hence, it is one of the most demanding application development services across the globe. Either you are looking for iOS application development or iOS application testing; we can help you with both at unbelievable rates!
@@ -143,7 +143,7 @@ Apps need to support all of the latest iOS devices while still appearing as if t
     		</div><!--col-md-7-->
             
             <div class="col-md-5 text-center">
-            	<img src="img/mobility2.png" class="img-responsive animated wow fadeInRight">
+            	<img src="img/mobility2.png" class="img-responsive animated wow fadeInLeft">
             </div>
         </div><!--row-->
         

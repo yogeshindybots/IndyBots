@@ -64,6 +64,7 @@
                 <img src="img/slider/sw_dev.png">
               </div>
               <div class="caption img-sw2" data-animate="slideAppearUpToDown">
+              	<img src="img/slider/sw_dev1.png">
               </div>
             </div>
           </div>
@@ -83,7 +84,7 @@
                 <img src="img/slider/robo1.gif">
               </div>
               <div class="caption img-robo2" data-animate="slideAppearLeftToRight">
-                <img src="img/slider/robo2.gif">
+                <!--<img src="img/slider/robo2.gif">-->
               </div>
             </div>
           </div>
