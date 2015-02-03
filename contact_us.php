@@ -216,7 +216,7 @@ if(isset($_POST['submit']))
 		$phone = $_POST['usr_phone'];
 		$subject = $_POST['usr_sub'];
 	    $message = $_POST['usr_msg'];
-        $sSendTo = 'yogesh.indybots@gmail.com';
+        $sSendTo = 'patil.rahul962@gmail.com';
         $sBuffer = "-------------------- You have got message from --------------------\n\n".
            
 		   "Full Name   : $name\n\n".
