@@ -14,8 +14,7 @@
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
 <!-- responsive slider-->
 <link href="css/responsive-slider-parallax.css" rel="stylesheet">    
-    <style>
-	</style>
+
 </head>
 
 <body><!-- oncontextmenu="return false"-->
@@ -82,39 +81,42 @@
    <div class="container index_content">
    	  <div class="row">	 
       		
-          <div class="col-md-3 text-center" onmouseover="roboimgOnMouseOver()"
-      onmouseout="roboimgOnMouseOut()">
-          	<h2 class="animated wow fadeInUp">Robotics</h2>
+          <div class="col-md-3 text-center"><!-- onmouseover="roboimgOnMouseOver()"
+      onmouseout="roboimgOnMouseOut()"-->
+          	
             <!--<b class="fa fa-cog wow animated zoomIn"></b>-->
             <img src="img/robotics.png" id="robotics" class="wow animated zoomIn"/>
-            <p class="text-justify animated wow fadeInDown">IndyBots Principle business is to offer complete solutions on turnkey basis to its customers, typically consisting user requirement capturing & understanding of customer need, </p>
+            <h2 class="animated wow fadeInUp">Robotics</h2>
+            <p class="text-justify animated wow fadeInDown">IndyBots Principle business is to offer complete solutions on turnkey basis to </p>
             <a href="robotics.php" class="animated wow fadeInDown">Know more ...</a>
           </div><!--col-md-3-->
             
-          <div class="col-md-3 text-center" onmouseover="moimgOnMouseOver()"
-      onmouseout="moimgOnMouseOut()">
-          	<h2 class="animated wow fadeInUp">Mobility</h2>
+          <div class="col-md-3 text-center"><!-- onmouseover="moimgOnMouseOver()"
+      onmouseout="moimgOnMouseOut()"-->
             <!--<b class="fa fa-mobile wow animated zoomIn"></b>-->
             <img src="img/mobile.png" id="mobile" class=" wow animated zoomIn"/>
-            <p class="text-justify animated wow fadeInDown">Android OS that has made it successful and favorite in the Smartphone industry. In no time, Android started competing with Apple iOS and Windows operating platform</p>
+          	<h2 class="animated wow fadeInUp">Mobility</h2>
+            <p class="text-justify animated wow fadeInDown">Android OS that has made it successful and favorite in the Smartphone industry.</p>
             <a href="mobility.php" class="animated wow fadeInDown">Know more ...</a>
           </div><!--col-md-3-->
           
-          <div class="col-md-3 text-center" onmouseover="swimgOnMouseOver()"
-      onmouseout="swimgOnMouseOut()">
-          	<h2 class="animated wow fadeInUp">S/W Development</h2>
+          <div class="col-md-3 text-center"><!-- onmouseover="swimgOnMouseOver()"
+      onmouseout="swimgOnMouseOut()"-->
+          	
             <!--<b class="fa fa-desktop wow animated zoomIn"></b>-->
             <img src="img/computer.png" id="software" class=" wow animated zoomIn"/>
-            <p class="text-justify animated wow fadeInDown">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p>
+            <h2 class="animated wow fadeInUp">S/W Development</h2>
+            <p class="text-justify animated wow fadeInDown">Through IndyBots application Software development services, we analyze</p>
             <a href="sw_dev.php" class="animated wow fadeInDown">Know more ...</a>
           </div><!--col-md-3-->
           
-          <div class="col-md-3 text-center" onmouseover="webimgOnMouseOver()"
-      onmouseout="webimgOnMouseOut()">
-          	<h2 class="animated wow fadeInUp">Web Development</h2>
+          <div class="col-md-3 text-center"><!-- onmouseover="webimgOnMouseOver()"
+      onmouseout="webimgOnMouseOut()"-->
+          	
             <!--<b class="fa fa-globe wow animated zoomIn"></b>-->
             <img src="img/globe.png" id="web" class="wow animated zoomIn"/>
-            <p class="text-justify animated wow fadeInDown">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p>
+            <h2 class="animated wow fadeInUp">Web Development</h2>
+            <p class="text-justify animated wow fadeInDown">Our web design services can help rediscover your business’s image in the</p>
             <a href="web_dev.php" class="animated wow fadeInDown">Know more ...</a>
           </div><!--col-md-3-->
           
