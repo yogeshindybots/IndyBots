@@ -17,11 +17,11 @@
     
 </head>
 
-<body><!-- oncontextmenu="return false"-->
+<body oncontextmenu="return false"><!---->
 	  <header>
   	<nav class="navbar navbar-default navbar-fixed-top">
     	<div class="container">
-          <a href="index.php" class="pull-left"><img src="img/logo.png" class="img-responsive"></a>
+          <a href="index.php" class="pull-left"><img src="img/logo.png" class="img-responsive logo"></a>
 
         	<div class="navbar-header">
             	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">

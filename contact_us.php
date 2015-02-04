@@ -23,11 +23,11 @@
 <!-- responsive slider-->
 <link href="css/responsive-slider-parallax.css" rel="stylesheet">     
 </head>
-<body><!-- oncontextmenu="return false"-->
+<body oncontextmenu="return false"><!---->
 	  <header>
   	<nav class="navbar navbar-default navbar-fixed-top">
     	<div class="container">
-          <a href="index.php" class="pull-left"><img src="img/logo.png" class="img-responsive"></a>
+          <a href="index.php" class="pull-left"><img src="img/logo.png" class="img-responsive logo"></a>
 
         	<div class="navbar-header">
             	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
@@ -217,7 +217,7 @@ if(isset($_POST['submit']))
 		$subject = $_POST['usr_sub'];
 	    $message = $_POST['usr_msg'];
         $sSendTo = 'patil.rahul962@gmail.com';
-        $sBuffer = "-------------------- You have got message from --------------------\n\n".
+        $sBuffer = "-------------------- You have got message from ".$name." --------------------\n\n".
            
 		   "Full Name   : $name\n\n".
            "Email       : $email\n\n".

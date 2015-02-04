@@ -31,11 +31,23 @@ header{
 	margin-bottom:75px;
 	border-bottom:#666666;
 }
+.logo{
+	user-drag:none;
+	-webkit-user-drag:none;
+	-moz-user-drag:none;
+	-ms-user-drag:none;
+	-o-user-drag:none;
+}
 /*------------Navigation--------------*/
 
 .navbar{
 	background:#fff;
 	height:75px;
+	user-select:none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	-o-user-select:none;
 	}
 .navbar-default{
 	border:none;
@@ -176,10 +188,22 @@ header{
 /*------Services on index page-----	--*/
 .index_content{
 	padding-top:10px;
+	user-select:none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	-o-user-select:none;
 	}
 .index_content .col-md-3{
 	padding-top:20px;
 	padding-bottom:20px;
+	}
+.index_content .col-md-3 img{
+	user-drag:none;
+	-webkit-user-drag:none;
+	-moz-user-drag:none;
+	-ms-user-drag:none;
+	-o-user-drag:none;
 	}
 .index_content .col-md-3:hover {
 	color:#fff;
@@ -214,17 +238,40 @@ header{
 .section_heading h2{
 	text-transform:uppercase;
 	font-size:28px;
+	user-select:none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	-o-user-select:none;
 	}
 .section_heading .breadcrumb{
 	padding-top:30px;
 	background:none;
+	user-select:none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	-o-user-select:none;
 	}
 .section_content{
 	padding-top:20px;
 	padding-bottom:10px;
+	user-select:none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	-o-user-select:none;
+	}
+.section_content img{
+	user-drag:none;
+	-webkit-user-drag:none;
+	-moz-user-drag:none;
+	-ms-user-drag:none;
+	-o-user-drag:none;
 	}
 .section_content .fa{
-	color:#017BC4;}
+	color:#017BC4;
+	}
 .section_content p{
 	line-height:25px;
 	}
@@ -232,6 +279,11 @@ header{
 /*-------Career---------------*/
 .panel .panel-body h4{
 	text-decoration:underline;
+	user-select:none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	-o-user-select:none;
 	}
 /*-------Contact Form---------*/
 .btn{
@@ -387,3 +439,10 @@ footer{
 	background:#3A3A3A;/*#ccc;*/
 	color:#ccc;
 	}
+.contact_footer .col-md-6 img{
+	
+	user-drag:none;
+	-webkit-user-drag:none;
+	-moz-user-drag:none;
+	-ms-user-drag:none;
+	-o-user-drag:none;}

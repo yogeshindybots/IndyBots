@@ -8,7 +8,7 @@
 .responsive-slider-parallax .slides-container {
   position: relative;
   overflow: hidden;
-  background-image: url(../img/slider/slider8.png);
+  background-image: url(../img/slider/slider_bg.png);
   background-size: cover;
   background-position: 0 0;
 }
@@ -32,7 +32,7 @@
 }
 .responsive-slider-parallax .slides-container ul li .slide-body img {
   max-width: 100%;
-}
+  }
 .responsive-slider-parallax .slides-container ul li .slide-body .container {
   height: 100%;
 }
