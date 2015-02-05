@@ -103,7 +103,7 @@ Well it is a system that contains sensors, control systems, manipulators, power 
     		</div><!--col-md-7-->
             
             <div class="col-md-5">
-            	<img src="img/robotics_page.png" class="img-responsive">
+            	<img src="img/robotics_page.png" class="img-responsive animated wow fadeInRight">
             </div>
         </div><!--row-->
         

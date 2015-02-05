@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>IndyBots Technologies</title>
+<title>IndyBots Technologies | Software company in pune | company working on android, robotics, .net, web | software company in baner</title>
 <link href="css/bootstrap.min.css" rel="stylesheet"/>
 <link href="css/indybots.css" rel="stylesheet"/>
 <link href="css/animate.css" rel="stylesheet" type="text/css"/>
