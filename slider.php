@@ -162,7 +162,7 @@
 
               </div>
 
-              <div class="caption img-robo1" data-animate="slideAppearDownToUp" data-delay="200">
+              <div class="caption img-robo1" data-animate="slideAppearRightToLeft" data-delay="200">
 
                <img src="img/slider/robo.png">
 
